@@ -29,7 +29,7 @@ RS-Swag-Demo demonstrates how to build a RESTful API in Rust using the Actix Web
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RGGH/rs-swag-demo.git
+   git clone https://github.com/RGGH/ac-sch.git
    cd rs-swag-demo
    ```
 
