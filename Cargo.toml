@@ -1,0 +1,16 @@
+[package]
+name = "ac-sch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+utoipa = "4"
+utoipa-swagger-ui = { version = "5", features = ["actix-web"] }
+schemars = "0.8"
+serde = { version = "1.0", features = ["derive"] }
+actix-web = "4"
+
+
+
+
+
