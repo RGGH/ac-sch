@@ -8,7 +8,7 @@ A simple Rust API demo showcasing Actix Web with OpenAPI/Swagger UI integration.
 
 ## 📝 Description
 
-RS-Swag-Demo demonstrates how to build a RESTful API in Rust using the Actix Web framework with auto-generated OpenAPI documentation via Utoipa and Swagger UI. This project serves as a minimal but functional template for creating well-documented Rust web services.
+Demonstrates how to build a RESTful API in Rust using the Actix Web framework with auto-generated OpenAPI documentation via Utoipa and Swagger UI. This project serves as a minimal but functional template for creating well-documented Rust web services.
 
 ## ✨ Features
 
