@@ -1,4 +1,4 @@
-# RS-Swag-Demo
+# Rust & Swagger with Json Schema
 
 A simple Rust API demo showcasing Actix Web with OpenAPI/Swagger UI integration.
 
